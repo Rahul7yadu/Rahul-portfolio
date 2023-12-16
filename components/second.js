@@ -11,8 +11,8 @@ export default function Second() {
     {
       title: 'Astronomy - Nasa Photo of the Day',
       price: ['JavaScript', 'ReactJs', 'Material UI'],
-      image: '/apod.jpg',
-      url: 'https://ry-apod.vercel.app/',
+      image: '/nasa-potd.png',
+      url: 'https://nasa-potd-nine.vercel.app/',
     },
     {
       title: 'Devconnect',
