@@ -25,6 +25,13 @@ export default function Second() {
       price: ['JavaScript', 'ReactJs', 'Material-UI',],
       image: '/react-dictionary.png',
       url:"https://react-dictionary-302df.web.app/"
+    },
+
+    {
+      title: 'Taskio',
+      price: ['Typescript', 'ReactJs', 'TailwindCSS','Firebase'],
+      image: '/taskio.png',
+      url:"https://todos-aa10d.web.app/"
     }
   ]
 
